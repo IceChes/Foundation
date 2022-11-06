@@ -1,0 +1,1 @@
+If you use this configuration you'll need an LCD. The one used on the Ender 3 is supported.
