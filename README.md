@@ -33,6 +33,7 @@ Nothing here yet! If you contributed to this design in any way and you want your
 
 # Resources
 BOM - https://docs.google.com/spreadsheets/d/1Hr-DCTkAWEB3jmh9GUQvC3H4EJS_HBtFFCF00i8HrnU/
+
 CAD - https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
 
 # Roadmap
