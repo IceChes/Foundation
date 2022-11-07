@@ -1,6 +1,8 @@
 # Foundation
 Foundation. It means "an underlying basis or principle". And that's exactly what this machine is. While it'll probably work just fine when you put it together, it's not designed to be operated that way. Instead, it's been designed so that you can take it and do what you like with it.
 
+V 1.0.0
+
 WARNING! UNTESTED!
 
 ![Screenshot from 2022-11-05 17-37-22](https://user-images.githubusercontent.com/61756119/200194693-e836200d-a696-404d-8993-90eef2fe6830.png)
