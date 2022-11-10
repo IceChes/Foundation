@@ -37,8 +37,8 @@ BOM - https://docs.google.com/spreadsheets/d/1Hr-DCTkAWEB3jmh9GUQvC3H4EJS_HBtFFC
 CAD - https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
 
 # Roadmap
+- 4 point bed mount.
 - Leadscrew based Z mod.
 - Linear rail Z axis mod.
 - Linear rail Y axis mod.
 - Single motor Y axis mod.
-- 4 point bed mount.
