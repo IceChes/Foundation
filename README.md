@@ -37,4 +37,4 @@ BOM - https://docs.google.com/spreadsheets/d/1Hr-DCTkAWEB3jmh9GUQvC3H4EJS_HBtFFC
 CAD - https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
 
 # Updates
-No updates will be performed unless problems are found with the current model.
+No updates will be performed unless problems are found with the current model or a user suggests a mod that I feel motivated enough to make.
