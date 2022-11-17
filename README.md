@@ -1,11 +1,11 @@
 # Foundation
 Foundation. It means "an underlying basis or principle". And that's exactly what this machine is. While it'll probably work just fine when you put it together, it's not designed to be operated that way. Instead, it's been designed so that you can take it and do what you like with it.
 
-V 1.0.0
+V 1.1
 
 WARNING! UNTESTED!
 
-![Screenshot from 2022-11-05 17-37-22](https://user-images.githubusercontent.com/61756119/200194693-e836200d-a696-404d-8993-90eef2fe6830.png)
+![Screenshot 2022-11-17 075354](https://user-images.githubusercontent.com/61756119/202464968-ecd83671-37b3-4809-a7c9-4d841f102301.png)
 
 # Feature List
 - Dual Y motors for high acceleration even when printing large objects.
@@ -37,4 +37,7 @@ BOM - https://docs.google.com/spreadsheets/d/1Hr-DCTkAWEB3jmh9GUQvC3H4EJS_HBtFFC
 CAD - https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
 
 # Updates
-No updates will be performed unless problems are found with the current model or a user suggests a mod that I feel motivated enough to make.
+Will come depending solely on if I feel like updating the design.
+
+# Versioning 
+The Foundation uses a special incrementing version system. Increments in the number after the period means that one or more parts need to be reprinted to upgrade, and/or 2 purchased components or less need to be swapped out or added. Increments in the first number mean that more than 2 purchased components need to be swapped out or added. 
