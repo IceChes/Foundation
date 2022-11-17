@@ -16,6 +16,7 @@ WARNING! UNTESTED!
 - Supports high performance Voron Switchwire vibration isolating feet.
 - Supports any V6 style hotend.
 - Fully self replicating in most configurations.
+- Rigid aluminum bed weighs only about 160-170g.
 
 # Supported Mods and Alternative Configurations
 A supported modification is a user (or creator) made modification that I have decided to provide support for. Want to make one? It must follow these requirements:
