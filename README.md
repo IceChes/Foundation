@@ -5,7 +5,9 @@ V 1.1
 
 WARNING! UNTESTED!
 
-![Screenshot 2022-11-17 075354](https://user-images.githubusercontent.com/61756119/202464968-ecd83671-37b3-4809-a7c9-4d841f102301.png)
+V1.2
+
+![foundation12](https://user-images.githubusercontent.com/61756119/202737596-2a23c792-7fdb-4daa-9107-e21b7e3ffb93.PNG)
 
 # Feature List
 - Dual Y motors for high acceleration even when printing large objects.
