@@ -33,7 +33,10 @@ What you get if I decide to support a mod:
 - Your name credited here.
 
 # Contributors
-Nothing here yet! If you contributed to this design in any way and you want your username down here, let me know.
+sr6imp - EVA 2.3 for Ender 3 fan duct. - https://www.thingiverse.com/thing:4916779
+Rolohaun - Various ideas.
+
+If you contributed, let me know and I'll add you.
 
 # Resources
 BOM - https://docs.google.com/spreadsheets/d/1Hr-DCTkAWEB3jmh9GUQvC3H4EJS_HBtFFCF00i8HrnU/
