@@ -1,11 +1,9 @@
 # Foundation
 Foundation. It means "an underlying basis or principle". And that's exactly what this machine is. While it'll probably work just fine when you put it together, it's not designed to be operated that way. Instead, it's been designed so that you can take it and do what you like with it.
 
-V 1.1
-
 WARNING! UNTESTED!
 
-V1.2
+V1.2 - "Pink"
 
 ![foundation12](https://user-images.githubusercontent.com/61756119/202737596-2a23c792-7fdb-4daa-9107-e21b7e3ffb93.PNG)
 
@@ -49,3 +47,8 @@ Will come depending solely on if I feel like updating the design.
 
 # Versioning 
 The Foundation uses a special incrementing version system. Increments in the number after the period means that one or more parts need to be reprinted to upgrade, and/or 2 purchased components or less need to be swapped out or added. Increments in the first number mean that more than 2 purchased components need to be swapped out or added. 
+
+# V1.2 Changelog
+
+- Fixed X axis mounting.
+- Fixed eyelets used for cable Z braces.
