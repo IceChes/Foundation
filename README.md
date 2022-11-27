@@ -5,7 +5,7 @@ WARNING! UNTESTED!
 
 V1.2 - "Pink"
 
-![foundation12](https://user-images.githubusercontent.com/61756119/202737596-2a23c792-7fdb-4daa-9107-e21b7e3ffb93.PNG)
+![image](https://user-images.githubusercontent.com/61756119/204115547-b1bf8316-d224-4aee-bd77-bb6c2ea2a79e.png)
 
 # Feature List
 - Dual Y motors for high acceleration even when printing large objects.
@@ -16,7 +16,7 @@ V1.2 - "Pink"
 - Supports high performance Voron Switchwire vibration isolating feet.
 - Supports any V6 style hotend.
 - Fully self replicating in most configurations.
-- Rigid aluminum bed weighs only about 160-170g.
+- Rigid aluminum bed weighs only about 400g including the heater and build surface.
 - Supports cable-based Z braces.
 
 # Supported Mods and Alternative Configurations
@@ -38,7 +38,7 @@ Rolohaun - Various ideas.
 If you contributed, let me know and I'll add you.
 
 # Resources
-BOM - https://docs.google.com/spreadsheets/d/1Hr-DCTkAWEB3jmh9GUQvC3H4EJS_HBtFFCF00i8HrnU/
+BOM - https://docs.google.com/spreadsheets/d/1jujdHl8QwBXzW1Ww39o1KbfB0NzyiKey_WCreZx1Uug/edit?usp=sharing
 
 CAD - https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
 
@@ -48,7 +48,11 @@ Will come depending solely on if I feel like updating the design.
 # Versioning 
 The Foundation uses a special incrementing version system. Increments in the number after the period means that one or more parts need to be reprinted to upgrade, and/or 2 purchased components or less need to be swapped out or added. Increments in the first number mean that more than 2 purchased components need to be swapped out or added. 
 
-# V1.2 Changelog
+# V2.0 Changelog
 
-- Fixed X axis mounting.
-- Fixed eyelets used for cable Z braces.
+- Sunk down bolts.
+- Created the Foundation EVA toolhead.
+- Updated the machine's appearance.
+- Strengthened some parts.
+- Cut more bed weight.
+- Changed to M5 belt idlers.
