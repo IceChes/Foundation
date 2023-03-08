@@ -1,23 +1,23 @@
 # Foundation
-Foundation. It means "an underlying basis or principle". And that's exactly what this machine is. While it'll probably work just fine when you put it together, it's not designed to be operated that way. Instead, it's been designed so that you can take it and do what you like with it.
 
-WARNING! UNTESTED!
+Foundation is a high-end Cartesian bedslinger designed for versatility, modifiability, and speed. It can cost anywhere from $350 to over $450 depending on which configuration you use. 
 
-V2.0 - "Yellow"
+Current Version: Release 1.0
 
-![image](https://user-images.githubusercontent.com/61756119/204115547-b1bf8316-d224-4aee-bd77-bb6c2ea2a79e.png)
+Foundation is a WIP machine and the first prototype does not work yet. I do not recommend building anything until the first prototype is working.
+
+![foundation](https://user-images.githubusercontent.com/61756119/223756553-75e3995e-91a1-49e6-aafc-d8143df38908.PNG)
 
 # Feature List
 - Dual Y motors for high acceleration even when printing large objects.
-- Hyper-rigid base.
-- Versatile and modifiable.
-- Uses the high performance EVA 2.3 fan duct.
-- Electronics can be mounted externally or underneath the machine.
+- Extremely rigid construction.
+- Extrusion and T nut based construction for easy construction and modification.
+- Uses a modified version of the highly versatile EVA toolhead.
+- Innovative electronics mounting.
 - Supports high performance Voron Switchwire vibration isolating feet.
-- Supports any V6 style hotend.
-- Fully self replicating in most configurations.
+- Supports any Volcano compatible hotend.
+- Can replicate all of its own printed parts in the default configuration.
 - Rigid aluminum bed weighs only about 400g including the heater and build surface.
-- Supports cable-based Z braces.
 
 # Supported Mods and Alternative Configurations
 A supported modification is a user (or creator) made modification that I have decided to provide support for. Want to make one? It must follow these requirements:
@@ -26,12 +26,12 @@ A supported modification is a user (or creator) made modification that I have de
 - No logos or anything! I'll credit you below.
 
 What you get if I decide to support a mod:
-- Documentation provided by me in this README file.
+- Documentation provided by me.
 - Addition of any and all files to this GitHub repo.
 - Your name credited here.
 
 # Contributors
-sr6imp - EVA 2.3 for Ender 3 fan duct. - https://www.thingiverse.com/thing:4916779
+sr6imp - EVA 2.3 for Ender 3 fan duct, which I heavily modified into the Foundation EVA. - https://www.thingiverse.com/thing:4916779
 
 Rolohaun - Various ideas.
 
@@ -48,11 +48,6 @@ Will come depending solely on if I feel like updating the design.
 # Versioning 
 The Foundation uses a special incrementing version system. Increments in the number after the period means that one or more parts need to be reprinted to upgrade, and/or 2 purchased components or less need to be swapped out or added. Increments in the first number mean that more than 2 purchased components need to be swapped out or added. 
 
-# V2.0 Changelog
+# 1.0 Changelog
 
-- Sunk down bolts.
-- Created the Foundation EVA toolhead.
-- Updated the machine's appearance.
-- Strengthened some parts.
-- Cut more bed weight.
-- Changed to M5 belt idlers.
+- Uploaded printer.
