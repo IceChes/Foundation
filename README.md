@@ -1,6 +1,6 @@
 # Foundation
 
-Foundation is a high-end Cartesian bedslinger designed for versatility, modifiability, and speed. It can cost anywhere from $350 to over $450 depending on which configuration you use. 
+Foundation is a high-end Cartesian bedslinger designed for versatility, modularity, and speed. It can cost anywhere from $350 to over $450 depending on which configuration you use. 
 
 Current Version: Release 1.0
 
