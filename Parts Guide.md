@@ -26,6 +26,3 @@ All parts must be ABS, ASA, or PETG printed with 4 walls and top/bottom layers w
 |Top Bracket - Left   |1       |                          |
 |Top Bracket - Right  |1       |                          |
 |Extruder Mount       |1       |                          |
-
-# Orientation
-All part orientation should be immediately obvious. 
