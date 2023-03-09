@@ -43,7 +43,7 @@ BOM - https://docs.google.com/spreadsheets/d/1jujdHl8QwBXzW1Ww39o1KbfB0NzyiKey_W
 CAD - https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
 
 # Updates
-Will come depending solely on if I feel like updating the design.
+Will come depending solely on if I feel like updating the design. At some point this printer will be completely converted to coreXZ.
 
 # Versioning 
 The Foundation uses a special incrementing version system. Increments in the number after the period means that one or more parts need to be reprinted to upgrade, and/or 2 purchased components or less need to be swapped out or added. Increments in the first number mean that more than 2 purchased components need to be swapped out or added. 
