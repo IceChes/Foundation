@@ -11,6 +11,7 @@ All parts must be ABS, ASA, or PETG printed with 4 walls and top/bottom layers w
 |IEC Socket Mount     |1       |Any filament, any settings|
 |Long PSU Bracket     |2       |Any filament, any settings|
 |Short PSU Bracket    |2       |Any filament, any settings|
+|Fan Duct             |1       |Any Filament, any settings|
 |Inside Corner Bracket|4       |                          |
 |2040 Plate           |4       |Optional but recommended. |
 |Y Motor Mount - Left |1       |                          |
