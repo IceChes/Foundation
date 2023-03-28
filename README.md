@@ -28,8 +28,10 @@ To submit a supported mod, fork this repo, make a new directory in the "Supporte
 **User Help**
 - RazorSh4rk - Various design criticisms. Moral support.
 - ZombieHedgehog - Publicizing the project.
+
 **Company Help**
 - Polymaker - For making the easiest ABS I've ever used.
+
 **Supported Mods**
 - Nothing yet!
 
