@@ -37,4 +37,5 @@ To submit a supported mod, fork this repo, make a new directory in the "Supporte
 
 # Resources
 CAD: https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
+
 BOM: https://docs.google.com/spreadsheets/d/1jujdHl8QwBXzW1Ww39o1KbfB0NzyiKey_WCreZx1Uug/edit#gid=0
