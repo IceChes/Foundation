@@ -33,7 +33,7 @@ To submit a supported mod, fork this repo, make a new directory in the "Supporte
 - Polymaker - For making the easiest ABS I've ever used.
 
 **Supported Mods**
-- Nothing yet!
+- RazorSh4rk - Improved X tensioner.
 
 # Resources
 CAD: https://cad.onshape.com/documents/1b6af34e741de49267eb33f1/w/062e897289cc847096c67c52/e/c46deb7eee4581729b200b45
