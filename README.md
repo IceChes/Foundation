@@ -1,7 +1,7 @@
 # Foundation
 Foundation is a high-end Cartesian bedslinger designed to be very easy to print and build, be simple to modify, and have high throughput. 
 
-Current version: 1.0.
+Current version: 1.0 "red".
 
 1.1 is in active development.
 
