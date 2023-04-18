@@ -1,5 +1,5 @@
 # Foundation
-Foundation is a high-end Cartesian bedslinger designed to be very easy to print and build, be simple to modify, and have high throughput. 
+Foundation is a high-end Cartesian bedslinger designed to be very easy to print and build, be simple to modify, and have high throughput. This printer exists to prove that bedslingers can be a viable alternative to other types of motion systems under certain circumstances.
 
 Current version: 1.0 "red".
 
