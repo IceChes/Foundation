@@ -3,6 +3,8 @@ Foundation is a high-end Cartesian bedslinger designed to be very easy to print 
 
 Current version: 1.1 "green".
 
+https://github.com/IceChes/Foundation/wiki/Changelog
+
 ![Screenshot_2023-04-22_22-04-13](https://user-images.githubusercontent.com/61756119/233817402-4e30d28f-788d-4c29-b895-2d9de109b150.png)
 
 Foundation has a number of interesting features making it appealing to new and experienced builders including:
