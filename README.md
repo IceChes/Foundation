@@ -3,7 +3,7 @@ Foundation is a high-end Cartesian bedslinger designed to be very easy to print 
 
 Current version: 1.1 "green".
 
-![foundation](https://user-images.githubusercontent.com/61756119/228275853-22500983-3ea2-43e9-94c0-9dc3515a58e3.PNG)
+![Screenshot_2023-04-22_22-04-13](https://user-images.githubusercontent.com/61756119/233817402-4e30d28f-788d-4c29-b895-2d9de109b150.png)y
 
 Foundation has a number of interesting features making it appealing to new and experienced builders including:
 1. Dual motor Y axis for extremely rapid acceleration no matter the size of the print on the plate.
