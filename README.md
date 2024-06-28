@@ -17,16 +17,10 @@ Foundation has a number of interesting features making it appealing to new and e
 7. Support for groundbreaking wire cable Z braces.
 8. Self replicating.
 
-# Supported Mods
-Because Foundation is intended to be modified, I am officially supporting some user mods. What you get if you submit a mod and have it accepted:
-1. Official documentation in the wiki.
-2. Credits here.
-3. Your files in this repo.
-
-To submit a supported mod, fork this repo, make a new directory in the "Supported Mods" directory, and add your files there. If you feel like adding documentation yourself, include a markdown file for me to merge into the wiki. Otherwise, I will write the documentation. When you are done making your mod, submit a PR to this repo. I will review it and I *may or may not* add it. A supported mod must meet the following requirements:
-1. Fits Foundation's utilitarian aesthetic.
-2. Relatively easy to source/print parts.
-3. No logos! I'll credit you below.
+# Issues
+1. Imparallel belt paths on the X and Y axis cause binding at high speeds.
+2. Custom aluminum parts are only available in the USA or from expensive companies internationally.
+3. The dual motor Y axis does not work correctly with one motor driver and should only be used with 2 drivers.
 
 # Credits
 **User Help**
