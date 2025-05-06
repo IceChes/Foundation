@@ -1,6 +1,8 @@
 # Foundation
 Foundation is a mid-tier Cartesian bedslinger designed to be very easy to print and build, be simple to modify, and have high throughput. This printer exists to prove that bedslingers can be a viable alternative to other types of motion systems under certain circumstances.
 
+Foundation is NOT supported anymore. 
+
 Current version: 1.1 "green".
 
 https://github.com/IceChes/Foundation/wiki/Changelog
